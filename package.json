@@ -1,0 +1,15 @@
+{
+  "name": "ebac-projeto-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./styles/input.scss ./styles/output.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.0"
+  }
+}
